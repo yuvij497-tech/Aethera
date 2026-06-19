@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Cinematic Hero Section",
+  "description": "A gorgeous fullscreen cinematic hero section with seamless looping video background and custom fade transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
